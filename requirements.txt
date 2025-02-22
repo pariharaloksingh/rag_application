@@ -1,0 +1,8 @@
+langchain
+openai
+faiss-cpu
+chromadb
+tiktoken
+numpy
+pandas
+pypdf
